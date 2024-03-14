@@ -1,0 +1,4 @@
+>>>>> Q14.txt
+X SELECT tab0.X AS X FROM (SELECT s AS X FROM table00002__3_E__http___www_w3_org_1999_02_22_rdf_syntax_ns_type_ WHERE o == '<http://swat.cse.lehigh.edu/onto/univ-bench.owl#UndergraduateStudent>') AS tab0
+partitions 00002-_3=_http___www_w3_org_1999_02_22_rdf_syntax_ns_type_
+TP 1

@@ -1,0 +1,12 @@
+Query: Q6.txt
+Time: 113
+Time_load: 192
+Load_data: 606
+Result_count: 146
+partitions: 00001-_3=_http___www_w3_org_1999_02_22_rdf_syntax_ns_type_
+Query: Q14.txt
+Time: 127
+Time_load: 214
+Load_data: 542
+Result_count: 532
+partitions: 00002-_3=_http___www_w3_org_1999_02_22_rdf_syntax_ns_type_

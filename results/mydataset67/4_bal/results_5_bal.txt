@@ -1,0 +1,12 @@
+Query: Q4.txt
+Time: 1165
+Time_load: 955
+Load_data: 659
+Result_count: 10
+partitions: 00000-_3=_http___www_w3_org_1999_02_22_rdf_syntax_ns_type_,00000-_3=_http___swat_cse_lehigh_edu_onto_univ_bench_owl_worksfor_,00000-_3=_http___swat_cse_lehigh_edu_onto_univ_bench_owl_name_,00000-_3=_http___swat_cse_lehigh_edu_onto_univ_bench_owl_emailaddress_,00000-_3=_http___swat_cse_lehigh_edu_onto_univ_bench_owl_telephone_
+Query: Q8.txt
+Time: 950
+Time_load: 740
+Load_data: 1781
+Result_count: 146
+partitions: 00001-_3=_http___www_w3_org_1999_02_22_rdf_syntax_ns_type_,00000-_3=_http___www_w3_org_1999_02_22_rdf_syntax_ns_type_,00000-_3=_http___swat_cse_lehigh_edu_onto_univ_bench_owl_memberof_,00000-_3=_http___swat_cse_lehigh_edu_onto_univ_bench_owl_suborganizationof_,00001-_3=_http___swat_cse_lehigh_edu_onto_univ_bench_owl_emailaddress_
